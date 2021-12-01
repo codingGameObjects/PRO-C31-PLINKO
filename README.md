@@ -1,1 +1,1 @@
-# PRO-C31-PLINKO
+# pinko1-modelo
